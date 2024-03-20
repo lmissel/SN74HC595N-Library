@@ -1,0 +1,15 @@
+# Syntax highlighting for SN74HC595N library
+
+# Data types
+DATATYPE      SN74HC595N
+
+# Functions
+FUNCTION      begin
+FUNCTION      write
+FUNCTION      clear
+FUNCTION      enableOutputs
+FUNCTION      disableOutputs
+
+# Constants
+LITERAL       HIGH
+LITERAL       LOW
